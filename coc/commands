@@ -1,0 +1,11 @@
+workspace.renameCurrentFile
+document.renameCurrentWord
+editor.action.organizeImport
+extensions.toggleAutoUpdate
+workspace.workspaceFolders
+workspace.diagnosticRelated
+workspace.clearWatchman
+workspace.showOutput
+document.jumpToNextSymbol
+document.jumpToPrevSymbol
+extensions.forceUpdateAll

@@ -1,0 +1,5 @@
+2020/10/10-18:55:48.651 e377 Reusing MANIFEST /home/juan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/10-18:55:58.268 e37b Level-0 table #5: started
+2020/10/10-18:55:58.295 e37b Level-0 table #5: 1342 bytes OK
+2020/10/10-18:55:58.355 e37b Delete type=0 #3
+2020/10/10-18:55:58.355 e37b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

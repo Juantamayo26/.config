@@ -1,0 +1,67 @@
+Height 768=718
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAGKAAAAY/wBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAARIAAAGKAAACDQD///8AAAGKAAACHgAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAQAAAdT/////AAAAAAAAAAA=
+Width 1366=668
+
+[General Settings]
+First Time=false
+Last Document Size=1632,3210
+Open Images in the Same Window=false
+
+[KFileDialog Settings]
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=1058
+Height 768=744
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAQgAAAAY/wBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAATYAAAQgAAACDQD///8AAAQgAAACNgAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAAAAAgT/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1366
+Width 1920=1898
+eDP-1 HDMI-1 Height 1080=1056
+eDP-1 HDMI-1 Height 768=734
+eDP-1 HDMI-1 Width 1366=673
+eDP-1 HDMI-1 Width 1920=1920
+eDP-1 HDMI-1 XPosition=687
+eDP-1 HDMI-1 YPosition=1108
+eDP-1 Height 768=744
+eDP-1 Width 1366=1366
+eDP-1 XPosition=0
+eDP-1 YPosition=24
+
+[MainWindow][Toolbar Tool Box]
+ToolButtonStyle=IconOnly
+
+[MimeType Properties Version 1.2-3]
+Configurable Color Depth=image/png,image/bmp,image/x-pcx,image/x-rgb,image/x-xpixmap
+Configurable Quality Setting=image/jp2,image/jpeg,image/x-webp
+Maximum Color Depth=image/x-eps:32,image/x-portable-bitmap:1,image/x-portable-graymap:8,image/x-xbitmap:1
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/favicon.ico
+Name1[$e]=favicon.ico
+
+[Text Settings]
+Font Size=18
+
+[Tool Settings]
+Last Used Tool=7
+Tool Widget Brush Col=1
+Tool Widget Brush Row=0
+Tool Widget Eraser Size Col=0
+Tool Widget Eraser Size Row=2
+Tool Widget Fill Style Col=0
+Tool Widget Fill Style Row=0
+Tool Widget Line Width Col=0
+Tool Widget Line Width Row=0
+Tool Widget Opaque/Transparent Col=0
+Tool Widget Opaque/Transparent Row=0
+Tool Widget Spraycan Size Col=0
+Tool Widget Spraycan Size Row=0
+
+[Toolbar Tool Box]
+ToolButtonStyle=IconOnly
+
+[Undo/Redo Settings]
+Max Limit=500
+Max Limit Size Limit=16777216
+Min Limit=10

@@ -1,0 +1,25 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="18" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-201.8743.12-d92d407929539088b166c20c99f087de1ba72ed0260405ff8e00dc3fa03fbd6e" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.gist.reindex.count" value="8" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.72-release-IJ2020.1-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.72-release-IJ2020.1-1:2020-04-14" />
+    <property name="lastSeenTip" value="Kotlin.html" />
+    <property name="lastTimeTipsWereShown" value="1598966789610" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1598372126846" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="seenTips" value="neue-smart_selection.html,neue-WideScreen.html,neue-pull_requests.html,neue-CodeCompletionMiddle.html,neue-Multiselection2.html,neue-RefactorThis.html,Kotlin.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

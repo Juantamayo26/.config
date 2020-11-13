@@ -1,0 +1,11 @@
+{
+	"lang": "en-US",
+	"disable-hide": true,
+	"option-to-disable-internal-external-popup": false,
+	"allow-multiple": false,
+	"visible": true,
+	"webview-onenote": {
+		"url": "https://utpedu-my.sharepoint.com/personal/juan_yepes_utp_edu_co/_layouts/15/Doc.aspx?sourcedoc={4dd9f1c9-ef5e-48c8-bf7c-b56484b74fdc}&action=edit&wd=target%28dsa.one%7C60e6b267-9147-4fe0-9f72-1ffb6473e0da%2Fasdas%7Cbe75265b-3dcf-4d58-b4a0-37e9197db5e5%2F%29",
+		"proxy": ""
+	}
+}

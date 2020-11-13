@@ -1,0 +1,80 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/juan/Base
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app.js
+> git ls-files --stage -- /home/juan/Base/src/app.js
+> git cat-file -s 4f0bb4b7b688498114e675c44578ca7c5ece8987
+> git show --textconv :src/controllers/billingController.js
+> git ls-files --stage -- /home/juan/Base/src/controllers/billingController.js
+> git cat-file -s 8bfc90e1838c24282c78a475dabb80070e114037
+> git show --textconv :src/controllers/inventoryController.js
+> git ls-files --stage -- /home/juan/Base/src/controllers/inventoryController.js
+> git cat-file -s 91006caf19aca4f53a662cb99824dd6ec4d096b3
+> git show --textconv :src/controllers/mainController.js
+> git ls-files --stage -- /home/juan/Base/src/controllers/mainController.js
+> git cat-file -s 6821af8d3378800bac81e16ff23efcf7ec586606
+> git show --textconv :src/routes/main.js
+> git ls-files --stage -- /home/juan/Base/src/routes/main.js
+> git cat-file -s 918aa5eb86133beb72e30aa8ae8273f2484de764
+> git show --textconv :src/controllers/mainController.js
+> git ls-files --stage -- /home/juan/Base/src/controllers/mainController.js
+> git cat-file -s 6821af8d3378800bac81e16ff23efcf7ec586606
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/views/inventory.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/inventory.ejs
+> git cat-file -s 8ff99ece673432286cd000eec13af5dea8fb0783
+> git show --textconv :src/app.js
+> git ls-files --stage -- /home/juan/Base/src/app.js
+> git cat-file -s 4f0bb4b7b688498114e675c44578ca7c5ece8987
+> git show --textconv :src/controllers/billingController.js
+> git ls-files --stage -- /home/juan/Base/src/controllers/billingController.js
+> git cat-file -s 8bfc90e1838c24282c78a475dabb80070e114037
+> git show --textconv :src/app.js
+> git ls-files --stage -- /home/juan/Base/src/app.js
+> git cat-file -s 4f0bb4b7b688498114e675c44578ca7c5ece8987
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/juan/Base/src/app.js
+> git rev-parse main
+> git cat-file -s 4f0bb4b7b688498114e675c44578ca7c5ece8987
+> git rev-parse --symbolic-full-name main@{u}
+> git show --textconv :src/app.js
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/juan/Base/src/app.js
+> git rev-parse main
+> git cat-file -s 4f0bb4b7b688498114e675c44578ca7c5ece8987
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git show --textconv :src/app.js
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

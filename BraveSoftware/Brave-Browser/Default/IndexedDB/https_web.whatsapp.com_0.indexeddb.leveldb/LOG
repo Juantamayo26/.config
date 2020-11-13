@@ -1,0 +1,33 @@
+2020/10/14-20:27:11.457 1ec82 Reusing MANIFEST /home/juan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/14-20:27:11.457 1ec82 Recovering log #11
+2020/10/14-20:27:11.459 1ec82 Reusing old log /home/juan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000011.log 
+2020/10/15-06:32:31.461 3421a Level-0 table #16: started
+2020/10/15-06:32:31.531 3421a Level-0 table #16: 1217951 bytes OK
+2020/10/15-06:32:31.542 3421a Delete type=0 #11
+2020/10/15-06:52:16.465 34e41 Compacting 1@1 + 1@2 files
+2020/10/15-06:52:16.580 34e41 Generated table #17@1: 15921 keys, 691802 bytes
+2020/10/15-06:52:16.580 34e41 Compacted 1@1 + 1@2 files => 691802 bytes
+2020/10/15-06:52:16.587 34e41 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/15-06:52:16.588 34e41 Delete type=2 #16
+2020/10/15-06:52:16.588 34e41 Delete type=2 #13
+2020/10/15-13:45:03.458 3d124 Level-0 table #19: started
+2020/10/15-13:45:03.597 3d124 Level-0 table #19: 1346497 bytes OK
+2020/10/15-13:45:03.672 3d124 Delete type=0 #15
+2020/10/15-13:45:07.462 3ca05 Compacting 1@1 + 1@2 files
+2020/10/15-13:45:07.630 3ca05 Generated table #20@1: 23574 keys, 1065215 bytes
+2020/10/15-13:45:07.630 3ca05 Compacted 1@1 + 1@2 files => 1065215 bytes
+2020/10/15-13:45:07.708 3ca05 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/15-13:45:07.708 3ca05 Delete type=2 #17
+2020/10/15-13:45:07.708 3ca05 Delete type=2 #19
+2020/10/15-14:01:10.997 3d811 Level-0 table #22: started
+2020/10/15-14:01:11.013 3d811 Level-0 table #22: 263591 bytes OK
+2020/10/15-14:01:11.019 3d811 Delete type=0 #18
+2020/10/15-14:01:11.020 3d811 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/15-14:01:11.020 3d811 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x03\x00\x90?\x96\xd8RwB\x00\x01,\x00t\x00b\x00R\x00K\x00D\x00F\x00c\x00w\x00k\x00D\x00+\x00E\x00y\x00f\x00t\x00l\x00v\x00e\x00C\x00f\x00P\x001\x00Q\x00D\x00+\x00A\x00H\x002\x00p\x00P\x00m\x00l\x00E\x00z\x00K\x00E\x002\x00y\x00U\x007\x00U\x00G\x00I\x00=' @ 108175 : 0
+2020/10/15-14:01:11.020 3d811 Compacting 1@1 + 1@2 files
+2020/10/15-14:01:11.101 3d811 Generated table #23@1: 20304 keys, 907730 bytes
+2020/10/15-14:01:11.101 3d811 Compacted 1@1 + 1@2 files => 907730 bytes
+2020/10/15-14:01:11.107 3d811 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/15-14:01:11.107 3d811 Delete type=2 #20
+2020/10/15-14:01:11.108 3d811 Delete type=2 #22
+2020/10/15-14:01:11.109 3d811 Manual compaction at level-1 from '\x00\x05\x02\x1f\x03\x00\x90?\x96\xd8RwB\x00\x01,\x00t\x00b\x00R\x00K\x00D\x00F\x00c\x00w\x00k\x00D\x00+\x00E\x00y\x00f\x00t\x00l\x00v\x00e\x00C\x00f\x00P\x001\x00Q\x00D\x00+\x00A\x00H\x002\x00p\x00P\x00m\x00l\x00E\x00z\x00K\x00E\x002\x00y\x00U\x007\x00U\x00G\x00I\x00=' @ 108175 : 0 .. (end); will stop at (end)

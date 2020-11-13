@@ -1,0 +1,9 @@
+file:///home/juan/Train/temp.cpp {"mtime":1602954887242,"ctime":1602954887242,"size":0,"etag":"35qoc49di0","orphaned":false}
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+    int n;
+    cin>>n;
+}

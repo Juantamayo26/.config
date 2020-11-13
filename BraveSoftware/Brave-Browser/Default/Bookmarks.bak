@@ -1,0 +1,40 @@
+{
+   "checksum": "016f2f8d9ab8197bd7fdfef6e2c71859",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13246844646180645",
+            "guid": "16aa7ca7-ccce-41d3-8ba8-faab56cdee7f",
+            "id": "5",
+            "name": "(1) Episodio #5: Más problemas con matrices (Programación para entrevistas de Big Tech) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=UIwrYltl-tc"
+         } ],
+         "date_added": "13246821157443880",
+         "date_modified": "13246844646180645",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13246821157443883",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13246821157443885",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

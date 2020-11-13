@@ -1,0 +1,14 @@
+2020/08/01-03:05:20.034 bfa Reusing MANIFEST /home/juan/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/08/01-03:05:20.034 bfa Recovering log #16
+2020/08/01-03:05:20.034 bfa Reusing old log /home/juan/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000016.log 
+2020/08/01-03:05:20.034 bfa Delete type=2 #14
+2020/08/01-03:05:28.200 c7e Level-0 table #21: started
+2020/08/01-03:05:28.206 c7e Level-0 table #21: 3042 bytes OK
+2020/08/01-03:05:28.214 c7e Delete type=0 #16
+2020/08/01-03:05:28.214 c7e Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 2755 : 1
+2020/08/01-03:05:28.214 c7e Compacting 1@0 + 1@1 files
+2020/08/01-03:05:28.223 c7e Generated table #22@0: 1369 keys, 16210 bytes
+2020/08/01-03:05:28.223 c7e Compacted 1@0 + 1@1 files => 16210 bytes
+2020/08/01-03:05:28.234 c7e compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/01-03:05:28.234 c7e Delete type=2 #21
+2020/08/01-03:05:28.234 c7e Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 2755 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,8 @@
+2020/10/13-18:33:10.772 a91c Reusing MANIFEST /home/juan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/13-18:33:10.772 a91c Recovering log #7
+2020/10/13-18:33:10.773 a91c Reusing old log /home/juan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000007.log 
+2020/10/13-22:57:50.048 fca4 Level-0 table #11: started
+2020/10/13-22:57:50.048 fca4 Level-0 table #11: 0 bytes OK
+2020/10/13-22:57:50.060 fca4 Delete type=0 #7
+2020/10/13-22:57:50.060 fca4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/13-22:57:50.060 fca4 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

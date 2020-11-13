@@ -1,0 +1,156 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/juan/Base
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :database/db.sql
+> git ls-files --stage -- /home/juan/Base/database/db.sql
+> git cat-file -s 1bd1867152f2f68d52846ad9b28803232a9065fb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/views/main.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/main.ejs
+> git cat-file -s 495b5ffca924752d69a395c34cf32ef4d86cf852
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/views/main.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/main.ejs
+> git cat-file -s 495b5ffca924752d69a395c34cf32ef4d86cf852
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/routes/billing.js
+> git ls-files --stage -- /home/juan/Base/src/routes/billing.js
+> git cat-file -s 1b1c7a06818bdb35fbc4908e77d3f2e5ed08a9d5
+> git show --textconv :src/routes/inventory.js
+> git ls-files --stage -- /home/juan/Base/src/routes/inventory.js
+> git cat-file -s 543a55cbbd015e39f025e0ca6d44c668accc8d28
+> git show --textconv :src/views/customers_edit.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/customers_edit.ejs
+> git cat-file -s 4a2c29f905a63cb896c52b8f12497d34f425cd59
+> git show --textconv :src/views/customers_edit.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/customers_edit.ejs
+> git cat-file -s 4a2c29f905a63cb896c52b8f12497d34f425cd59
+> git show --textconv :src/views/customers_edit.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/customers_edit.ejs
+> git cat-file -s 4a2c29f905a63cb896c52b8f12497d34f425cd59
+> git show --textconv :src/routes/inventory.js
+> git ls-files --stage -- /home/juan/Base/src/routes/inventory.js
+> git cat-file -s 543a55cbbd015e39f025e0ca6d44c668accc8d28
+> git show --textconv :src/views/customers_edit.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/customers_edit.ejs
+> git cat-file -s 4a2c29f905a63cb896c52b8f12497d34f425cd59
+> git show --textconv :src/routes/inventory.js
+> git ls-files --stage -- /home/juan/Base/src/routes/inventory.js
+> git cat-file -s 543a55cbbd015e39f025e0ca6d44c668accc8d28

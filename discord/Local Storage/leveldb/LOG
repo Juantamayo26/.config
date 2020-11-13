@@ -1,0 +1,32 @@
+2020/11/12-17:57:02.124 1326 Reusing MANIFEST leveldb/MANIFEST-000001
+2020/11/12-17:57:02.125 1326 Recovering log #820
+2020/11/12-17:57:02.126 1326 Level-0 table #824: started
+2020/11/12-17:57:02.354 1326 Level-0 table #824: 19605 bytes OK
+2020/11/12-17:57:02.358 1326 Delete type=0 #820
+2020/11/12-18:50:02.361 1325 Level-0 table #827: started
+2020/11/12-18:50:02.368 1325 Level-0 table #827: 17028 bytes OK
+2020/11/12-18:50:02.372 1325 Delete type=0 #825
+2020/11/12-19:43:31.995 2d22 Level-0 table #829: started
+2020/11/12-19:43:32.001 2d22 Level-0 table #829: 15472 bytes OK
+2020/11/12-19:43:32.004 2d22 Delete type=0 #826
+2020/11/12-20:03:02.360 2ee4 Level-0 table #831: started
+2020/11/12-20:03:02.364 2ee4 Level-0 table #831: 18363 bytes OK
+2020/11/12-20:03:02.368 2ee4 Delete type=0 #828
+2020/11/12-20:03:02.368 3baf Compacting 4@0 + 1@1 files
+2020/11/12-20:03:02.373 3baf Generated table #832@0: 89 keys, 17709 bytes
+2020/11/12-20:03:02.373 3baf Compacted 4@0 + 1@1 files => 17709 bytes
+2020/11/12-20:03:02.376 3baf compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/12-20:03:02.376 3baf Delete type=2 #831
+2020/11/12-20:03:02.376 3baf Delete type=2 #829
+2020/11/12-20:03:02.376 3baf Delete type=2 #827
+2020/11/12-20:03:02.376 3baf Delete type=2 #822
+2020/11/12-20:03:02.376 3baf Delete type=2 #824
+2020/11/12-20:47:02.361 2ee4 Level-0 table #834: started
+2020/11/12-20:47:02.366 2ee4 Level-0 table #834: 15500 bytes OK
+2020/11/12-20:47:02.370 2ee4 Delete type=0 #830
+2020/11/12-21:29:02.361 3baf Level-0 table #836: started
+2020/11/12-21:29:02.397 3baf Level-0 table #836: 16798 bytes OK
+2020/11/12-21:29:02.468 3baf Delete type=0 #833
+2020/11/12-22:23:02.362 635f Level-0 table #838: started
+2020/11/12-22:23:02.367 635f Level-0 table #838: 16025 bytes OK
+2020/11/12-22:23:02.371 635f Delete type=0 #835

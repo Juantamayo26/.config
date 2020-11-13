@@ -1,0 +1,10 @@
+file:///home/juan/Downloads/Strategy/PaisIva.py {"mtime":1603152633763,"ctime":1603299951313,"size":182,"etag":"35r51la255r","orphaned":false}
+from abc import ABC,abstractmethod
+class PaisIva(ABC):
+    @abstractmethod
+    def __init__(self):
+        pass
+    @abstractmethod
+    def ConIva(self, precio)->float:
+        pass
+        

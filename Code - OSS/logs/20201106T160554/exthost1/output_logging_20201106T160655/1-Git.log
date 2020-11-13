@@ -1,0 +1,75 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/juan/Base
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app.js
+> git ls-files --stage -- /home/juan/Base/src/app.js
+> git cat-file -s 054fd1c88597533f8c8bcde24d95ffc681b0761e
+> git check-ignore -v -z --stdin
+> git show --textconv :src/views/billing.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/billing.ejs
+> git show --textconv :src/views/billing2.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/billing2.ejs
+> git show --textconv :src/views/customers_edit.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/customers_edit.ejs
+> git cat-file -s 0b4da53125afd21dc098dade31edf52f2e61b39b
+> git show --textconv :src/views/customers.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/customers.ejs
+> git cat-file -s 9cbe5d7acf943683ec8a1d65df2546881423b9a5
+> git show --textconv :src/views/inventory.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/inventory.ejs
+> git cat-file -s eb57930b2034db49e2f37c56187ffbd52635765d
+> git show --textconv :src/views/inventory_edit.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/inventory_edit.ejs
+> git cat-file -s ca14c41d0e0779883ab0f7a12f057fb8ec4ff201
+> git show --textconv :src/views/inventory.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/inventory.ejs
+> git cat-file -s eb57930b2034db49e2f37c56187ffbd52635765d
+> git show --textconv :src/views/customers_edit.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/customers_edit.ejs
+> git cat-file -s 0b4da53125afd21dc098dade31edf52f2e61b39b
+> git show --textconv :src/views/payment.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/payment.ejs
+> git show --textconv :src/views/vendors.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/vendors.ejs
+> git cat-file -s bc5ed632cdf9fffc4114142178016d1b75168dd3
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/juan/Base/.gitignore
+> git cat-file -s 055785c1245c6ac9890b360b04e0972a0d2b7dc1
+> git show --textconv :src/app.js
+> git ls-files --stage -- /home/juan/Base/src/app.js
+> git cat-file -s 054fd1c88597533f8c8bcde24d95ffc681b0761e
+> git show --textconv :src/views/vendors.ejs
+> git ls-files --stage -- /home/juan/Base/src/views/vendors.ejs
+> git cat-file -s bc5ed632cdf9fffc4114142178016d1b75168dd3
+> git check-ignore -v -z --stdin
+> git show --textconv :src/controllers/billingController.js
+> git ls-files --stage -- /home/juan/Base/src/controllers/billingController.js
+> git show --textconv :src/controllers/inventoryController.js
+> git ls-files --stage -- /home/juan/Base/src/controllers/inventoryController.js
+> git cat-file -s d4e9fb3e1a6d04ee7d66c6a6b58a60398699d95b
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :database/db.sql
+> git ls-files --stage -- /home/juan/Base/database/db.sql
+> git cat-file -s 64f8ec3630c9c5bb9f355c94402e5058c8816045
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

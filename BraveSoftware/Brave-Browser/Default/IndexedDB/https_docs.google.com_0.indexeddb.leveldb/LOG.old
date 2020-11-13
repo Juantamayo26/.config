@@ -1,0 +1,8 @@
+2020/10/10-09:17:17.150 195f Reusing MANIFEST /home/juan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/10-09:17:17.151 195f Recovering log #7
+2020/10/10-09:17:17.151 195f Reusing old log /home/juan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000007.log 
+2020/10/10-09:17:20.752 15d6 Level-0 table #12: started
+2020/10/10-09:17:20.752 15d6 Level-0 table #12: 0 bytes OK
+2020/10/10-09:17:20.759 15d6 Delete type=0 #7
+2020/10/10-09:17:20.759 15d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/10-09:17:20.759 15d6 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

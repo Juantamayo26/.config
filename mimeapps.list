@@ -1,0 +1,37 @@
+[Added Associations]
+text/plain=visual-studio-code.desktop;
+application/pdf=firefox.desktop;brave-browser.desktop;
+video/x-matroska=vlc.desktop;
+text/x-c++src=code-oss.desktop;nvim.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/ftp=firefox.desktop;
+x-scheme-handler/chrome=firefox.desktop;
+text/html=firefox.desktop;
+application/x-extension-htm=firefox.desktop;
+application/x-extension-html=firefox.desktop;
+application/x-extension-shtml=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+application/x-extension-xhtml=firefox.desktop;
+application/x-extension-xht=firefox.desktop;
+image/png=feh.desktop;org.kde.kolourpaint.desktop;
+text/x-perl=nvim.desktop;
+application/x-perl=code-oss.desktop;
+text/x-python=code-oss.desktop;
+
+[Default Applications]
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/postman=Postman.desktop
+video/x-matroska=vlc.desktop
+x-scheme-handler/mailto=brave-browser.desktop
+x-scheme-handler/webcal=brave-browser.desktop
+x-scheme-handler/ftp=firefox.desktop
+x-scheme-handler/chrome=firefox.desktop
+text/html=firefox.desktop
+application/x-extension-htm=firefox.desktop
+application/x-extension-html=firefox.desktop
+application/x-extension-shtml=firefox.desktop
+application/xhtml+xml=firefox.desktop
+application/x-extension-xhtml=firefox.desktop
+application/x-extension-xht=firefox.desktop

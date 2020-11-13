@@ -1,0 +1,15 @@
+2020/10/10-10:12:06.097 24c8 Reusing MANIFEST /home/juan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/10-10:12:06.097 24c8 Recovering log #4
+2020/10/10-10:12:06.098 24c8 Reusing old log /home/juan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/000004.log 
+2020/10/10-10:12:08.136 24c8 Level-0 table #8: started
+2020/10/10-10:12:08.142 24c8 Level-0 table #8: 474 bytes OK
+2020/10/10-10:12:08.149 24c8 Delete type=0 #4
+2020/10/10-10:12:08.150 24c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/10-10:12:08.150 24c8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0b\x007\x000\x00a\x007\x00c\x002\x008\x00f\x003\x00d\x00e' @ 49 : 1
+2020/10/10-10:12:08.150 24c8 Compacting 1@1 + 1@2 files
+2020/10/10-10:12:08.157 24c8 Generated table #9@1: 19 keys, 586 bytes
+2020/10/10-10:12:08.157 24c8 Compacted 1@1 + 1@2 files => 586 bytes
+2020/10/10-10:12:08.165 24c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/10-10:12:08.166 24c8 Delete type=2 #8
+2020/10/10-10:12:08.166 24c8 Delete type=2 #5
+2020/10/10-10:12:08.166 24c8 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0b\x007\x000\x00a\x007\x00c\x002\x008\x00f\x003\x00d\x00e' @ 49 : 1 .. (end); will stop at (end)

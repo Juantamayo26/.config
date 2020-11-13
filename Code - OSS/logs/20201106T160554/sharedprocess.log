@@ -1,0 +1,8 @@
+[2020-11-06 16:05:58.865] [sharedprocess] [info] main {"machineId":"9b411a8b39d2f8c2bd79d62027d57d5dacc731ac3b84edd1f9622cce9dd8e0da","windowId":2}
+[2020-11-06 16:06:17.834] [sharedprocess] [info] Installing extension: mgmcdermott.vscode-language-babel
+[2020-11-06 16:06:18.347] [sharedprocess] [info] Downloaded extension: mgmcdermott.vscode-language-babel undefined
+[2020-11-06 16:06:18.502] [sharedprocess] [info] Extracted extension to /home/juan/.vscode-oss/extensions/.mgmcdermott.vscode-language-babel-0.0.29: mgmcdermott.vscode-language-babel
+[2020-11-06 16:06:18.502] [sharedprocess] [info] Renamed to /home/juan/.vscode-oss/extensions/mgmcdermott.vscode-language-babel-0.0.29
+[2020-11-06 16:06:18.504] [sharedprocess] [info] Installation completed. mgmcdermott.vscode-language-babel
+[2020-11-06 16:06:18.509] [sharedprocess] [info] Extensions installed successfully: mgmcdermott.vscode-language-babel
+[2020-11-06 16:06:38.882] [sharedprocess] [info] Starting to clean up unused language packs.
